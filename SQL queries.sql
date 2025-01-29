@@ -47,7 +47,6 @@ GROUP BY MONTH(date), MONTHNAME(date)
 ORDER BY MONTH(date);
 
 ##7th question
-
 SELECT
     post_type,
     SUM(reach) AS total_reach,
@@ -79,7 +78,6 @@ GROUP BY post_category,
 
 
 ##9th question
-
 SELECT 
     MONTH(date) AS month,
     date,
