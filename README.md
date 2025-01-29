@@ -33,19 +33,9 @@ Key Learnings
 
 📈📉 How to improve content strategy using data insights.
 
-Engagement Trends:
-
-📊 Engagement peaked in Q2, especially with tech tips and mobile-related content.
-
-📊 January to March had slower activity and growth.
-
 Recommendations
 
 🎯 Make more Reels with high-quality visuals, trending audio, and short, clear messages.
-
-✅ Mix static images with detailed captions and tech tutorials to keep followers interested.
-
-🔧 Try carousel posts with interactive designs like "Top 5 Gadgets of the Month."
 
 📊 Post unboxings, gadget reviews, and behind-the-scenes content to keep it real.
 
